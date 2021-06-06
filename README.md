@@ -22,7 +22,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / NODE / UNITY-C#
   <a href="https://www.facebook.com/yusef.rick"><img src="https://img.icons8.com/color/96/000000/facebook.png" height="40" alt="facebook"/></a>
   <a href="https://www.youtube.com/channel/UCr-_VKoesW5fFgIVRPqm42w"><img src="https://img.icons8.com/color/96/000000/youtube.png" height="40" alt="youtube"/></a>
   <a href="https://www.instagram.com/ctrl_richard"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" height="40" alt="instagram"/></a>
-  <a href="https://www.twitch.tv/matyo91"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" height="40" alt="twitch"/></a>
+  <a href="https://www.twitch.tv/jaeger_dev"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" height="40" alt="twitch"/></a>
   <a href="https://www.linkedin.com/in/richardalvesdev"><img src="https://img.icons8.com/color/96/000000/linkedin.png" height="40" alt="linkedin"/></a>
   <a href="https://steamcommunity.com/id/richardu/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" height="40" alt="steam"/></a>
   <a href="https://stackoverflow.com/users/11937124/jaeger-dev"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" height="40" alt="stackoverflow"/></a>
