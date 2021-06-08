@@ -40,6 +40,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS / NODE / UNITY-C#
 `CONCEPT--<repo-name>` 
 > used to store project created for a concept and/or study of a new tecnology or project idea.
 
+### Boilerplate code ###
+`BP--<repo-name>` 
+> used to store boilerplate code to future uses in a project.
+
 ### desktop application (downlodable executable) ###
 `EXEC--<repo-name>`
 > those are applications that can be downloaded and installed. 
