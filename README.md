@@ -54,7 +54,13 @@ Skills: VUE JS / REACT / JS / HTML / CSS / NODE / UNITY-C#
 
 ### web application (back-end) ###
 `BACK--<repo-name>`
-> those are web api's created by me, and other projects in the back end.
+> those are web backend app's created by me, and other projects in the back end.
+
+`REST--<repo-name>`
+> those are web api's created by me.
+
+`MONO--<repo-name>`
+> those are web backend structure using the monolithic architecture created by me, and other projects in the back end.
 
 ### mobile application ###
 `MOB--<repo-name>`
