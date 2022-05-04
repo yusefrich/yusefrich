@@ -49,15 +49,15 @@ Skills: VUE JS / REACT / JS / HTML / CSS / NODE / UNITY-C#
 > those are applications that can be downloaded and installed. 
 
 ### web application (front-end) ###
-`FE--<repo-name>`
+`FRONT--<repo-name>`
 > those are web pages created using javascript and other frontend frameworks
 
 ### web application (back-end) ###
-`BE--<repo-name>`
+`BACK--<repo-name>`
 > those are web api's created by me, and other projects in the back end.
 
 ### mobile application ###
-`MB--<repo-name>`
+`MOB--<repo-name>`
 > those are projects and application made for mobile, android and ios
 
 ### Games made by me ###
