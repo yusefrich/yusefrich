@@ -48,6 +48,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS / NODE / UNITY-C#
 `EXEC--<repo-name>`
 > those are applications that can be downloaded and installed. 
 
+### packages (npm or yarn packages for a given language/framework) ###
+`PACK--<repo-name>`
+> those are public packages created for a given language of framwork. 
+
 ### web application (front-end) ###
 `FRONT--<repo-name>`
 > those are web pages created using javascript and other frontend frameworks
