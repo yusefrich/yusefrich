@@ -70,6 +70,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS / NODE / UNITY-C#
 `MOB--<repo-name>`
 > those are projects and application made for mobile, android and ios
 
+### infrastructure ###
+`INFRA--<repo-name>`
+> those are projects created with the main objective of studing infrastructure and ci/cd
+
 ### Games made by me ###
 `UNITY--<repo-name>`
 > those are my unity game projects, made with the unity game engine
