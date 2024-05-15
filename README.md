@@ -1,13 +1,13 @@
 ## Hi there 👋, my name is **Yusef Richard**
 ## I am a **Web Fullstack** and **Game** developer.
 
-### I've been coding since 18 years old and created several other games and web applications, you can see all of my projects 
+### I've been coding since 18 years old and created several other games and web applications, you can see all of my projects here
 
 ***
 
-## Gray Fox Studio
+## What is Gray Fox Studio?
 
-### On 2021 I founded the gray fox studio, the studio was made to house all my future game projects, our current game title is being developed and soon will be revealed
+### On 2021 I founded the gray fox studio, the studio was made to house all my future games and web projects, our current game title is being developed and is a passion project of mine, soon it will be revealed
 
 ![grayfox banner](https://i.imgur.com/mGdnIGr.jpg)
 
@@ -30,7 +30,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / NODE / UNITY-C#
 
 ## My current projects
 
-- 🔭 I’m currently working as a autonomous developer. 
+- 🔭 I’m currently working as a freelancer (autonomous developer).
 
 <br>
 
