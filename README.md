@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is **Yusef Richard**
-## I am a **Web Fullstack** and **Game** developer.
+## I am a **Software Engineer** and **Game** developer.
 
 ### I've been coding since 18 years old and created several other games and web applications, you can see all of my projects here
 
