@@ -1,18 +1,7 @@
 ## Hi there 👋, my name is **Yusef Richard**
 ## I am a **Software Engineer** and **Game** developer.
 
-### I've been coding since 18 years old and created several other games and web applications, you can see all of my personal projects here
-
-***
-
-## What is Gray Fox Studio?
-
-### On 2021 I founded the gray fox studio, the studio was made to house all my future games and web projects, our current game title is being developed and is a passion project of mine, soon it will be revealed
-
-![grayfox banner](https://i.imgur.com/mGdnIGr.jpg)
-
-Skills: VUE JS / REACT / JS / HTML / CSS / NODE / UNITY-C#
-
+### I've been coding since 18 years old and created several other games and web applications, you can see all of my projects here
 
 ## My social media
 
@@ -27,64 +16,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / NODE / UNITY-C#
   <a href="https://steamcommunity.com/id/richardu/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" height="40" alt="steam"/></a>
   <a href="https://stackoverflow.com/users/11937124/jaeger-dev"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" height="40" alt="stackoverflow"/></a>
 </p>
-
-## My current projects
-
-- 🔭 I’m currently working as a freelancer (autonomous developer).
-
-<br>
-
-### Projects **nomenclature guide** ##
-
-### concept study ###
-`CONCEPT--<repo-name>` 
-> used to store project created for a concept and/or study of a new tecnology or project idea.
-
-### Boilerplate code ###
-`BP--<repo-name>` 
-> used to store boilerplate code to future uses in a project.
-
-### desktop application (downlodable executable) ###
-`EXEC--<repo-name>`
-> those are applications that can be downloaded and installed. 
-
-### packages (npm or yarn packages for a given language/framework) ###
-`PACK--<repo-name>`
-> those are public packages created for a given language of framwork. 
-
-### web application (front-end) ###
-`FRONT--<repo-name>`
-> those are web pages created using javascript and other frontend frameworks
-
-### web application (back-end) ###
-`BACK--<repo-name>`
-> those are web backend app's created by me, and other projects in the back end.
-
-`REST--<repo-name>`
-> those are web api's created by me.
-
-`MONO--<repo-name>`
-> those are web backend structure using the monolithic architecture created by me, and other projects in the back end.
-
-### mobile application ###
-`MOB--<repo-name>`
-> those are projects and application made for mobile, android and ios
-
-### infrastructure ###
-`INFRA--<repo-name>`
-> those are projects created with the main objective of studing infrastructure and ci/cd
-
-### Games made by me ###
-`UNITY--<repo-name>`
-> those are my unity game projects, made with the unity game engine
-
-
-<br>
-
-***
-<br>
-<br>
-<br>
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yusefrich&theme=github)  
