@@ -18,6 +18,5 @@
 </p>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yusefrich&theme=github)  
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yusefrich&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Profile views](https://gpvc.arturio.dev/yusefrich)  
