@@ -1,7 +1,16 @@
+![](https://komarev.com/ghpvc/?username=yusefrich)
 ## Hi there 👋, my name is **Yusef Richard**
-## I am a **Software Engineer** and **Game** developer.
+I am passionate about creating interactive and efficient experiences writing code, with solid experience in the development of games, mobile and web applications. I am proficient in technologies such as Unity, Unity netcode, React Native, Flutter, Node.js and others.
 
-### I've been coding since 18 years old and created several other games and web applications, you can see all of my projects here
+Curious by nature and driven by challenges, I currently focus on Unity in game development, especially for multiplayer experiences, with Netcode and Unity Cloud. For personal projects, I have been dedicating myself to the Godot and Unreal engines, exploring their possibilities and expanding my knowledge in C++ and more immersive game design.
+
+### 💼 My favorite technologies and frameworks:
+- Mobile: React Native, Flutter
+- Game Dev: Unity (C#, Netcode, Cloud), Godot (GDScript, C#), Unreal Engine (C++)
+- Web: React, Vue, Svelte, Node.js, Laravel
+- Others: Git, Docker, Firebase, WebSocket, REST APIs
+
+I like to transform ideas into products and look for solutions that really make sense to the user. Always open to learning new things and team collaboration.
 
 ## My social media
 
@@ -19,4 +28,3 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yusefrich&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![](https://komarev.com/ghpvc/?username=yusefrich)
