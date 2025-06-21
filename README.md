@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=yusefrich)
 ## Hi there 👋, my name is **Yusef Richard**
 I am passionate about creating interactive and efficient experiences writing code, with solid experience in the development of games, mobile and web applications. I am proficient in technologies such as Unity, Unity netcode, React Native, Flutter, Node.js and others.
 
@@ -28,3 +27,4 @@ I like to transform ideas into products and look for solutions that really make 
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yusefrich&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://komarev.com/ghpvc/?username=yusefrich)
